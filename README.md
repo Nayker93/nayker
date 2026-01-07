@@ -1,4 +1,4 @@
-## Hello, I'm Clément
+## Hello, I'm Clément 👋
 
 I'm a Bachelor student at ESIEE Paris, aiming to become an engineer in **Networks & Cybersecurity**.
 I like building concrete projects and understanding how systems really work.
