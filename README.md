@@ -9,7 +9,10 @@ I'm currently working on :
 - Preparing my transition to an engineering cycle in networks & security
 
 **Languages :** Java, C, Python, JavaScript, HTML/CSS, SQL
+
 **Systems & Tools :** GNU/Linux, VirtualBox, Wireshark, Git/GitHub
 
+
 **LinkedIn :** [https://www.linkedin.com/in/clement-ruan/]
+
 **Location :** Paris, France
